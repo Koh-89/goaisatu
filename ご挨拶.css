@@ -6,9 +6,11 @@ body {
 }
 
 @media (max-width: 1000px) {
-  
+
   .menu_con1 {
-    font-size: 20px!important;
+  font-size: 20px!important;
+
+  }
 
   .prof {
   margin-left: 50px!important;
@@ -26,11 +28,6 @@ body {
     font-size: 30px!important;
     width: 300px!important;
     margin-left: 20px!important;
-  }
-
-  .スポーツpic {
-    height: 250px!important;
-    margin: 50px 50px 50px 50px!important;
   }
 
   h2 {
@@ -145,7 +142,6 @@ body {
 .prof {
   height: 0px;
   margin-left: 100px;
-  margin-top: 50px;
   float: left;
 }
 
