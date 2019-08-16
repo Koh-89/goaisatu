@@ -5,6 +5,34 @@ body {
   margin: 0;
 }
 
+@media (max-width: 1000px) {
+
+  .SNS {
+    width: 350px;
+  }
+
+  .sns {
+    padding: 0px 20px!important;
+  }
+
+  h1 {
+    font-size: 30px!important;
+    width: 300px!important;
+    margin-left: 20px!important;
+  }
+
+  h2 {
+    font-size: 15px!important;
+    width: 450px !important;
+  }
+
+  span {
+    font-size: 50px!important;
+  }
+
+
+  }
+
 .topper {
   border-bottom: 4px solid #979797;
   width: 100%;
