@@ -6,6 +6,9 @@ body {
 }
 
 @media (max-width: 1000px) {
+  
+  .menu_con1 {
+    font-size: 20px!important;
 
   .prof {
   margin-left: 50px!important;
