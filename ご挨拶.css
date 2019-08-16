@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1000px) {
 
   .menu_con1 {
   font-size: 20px!important;
